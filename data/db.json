@@ -1,0 +1,7 @@
+{
+    "projects":[
+        { "title": "Point of Sale", "id":1, "details": "'lorem'"},
+        { "title": "Personal Website", "id":2, "details": "'lorem'"},
+        { "title": "Calculator", "id":3, "details": "'lorem'"}
+    ]
+}
